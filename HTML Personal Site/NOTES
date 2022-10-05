@@ -1,0 +1,15 @@
+boilerplate -  a code template that can be reused (programming)
+
+atom shortcuts - https://github.com/nwinkler/atom-keyboard-shortcuts
+
+
+1.Character interpretation by web browser
+->you can change the browser interpretation in order to decode correctly the text
+-> utf-8/unicode uses international symbols
+-> unicode also includes emojis
+
+unicode interpretation info - https://www.fileformat.info/info/charset/UTF-8/list.htm
+
+2. Use of style text
+instead of using <i>(italics), <b>(bold) which only styles the text without any emphasis,
+use <em>,<strong> to indicate that the text is important

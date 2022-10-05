@@ -1,0 +1,29 @@
+.dates {
+    background-color: #d7d9f2;
+}
+
+.flash {
+    background-color: #ffe8d4;
+}
+
+caption {
+    padding: 8px;
+    caption-side: top;
+}
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row-group;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
